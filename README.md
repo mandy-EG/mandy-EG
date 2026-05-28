@@ -46,17 +46,17 @@
   <tr border="none">
     <td width="50%" align="center">
       <a href="https://github.com/mandy-EG/MeeTech-FrontEnd">
-        <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=mandy-EG&repo=MeeTech-FrontEnd&theme=dark&show_owner=true" alt="MeeTech Repo" />
+        <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=mandy-EG&repo=MeeTech-FrontEnd&theme=dark&show_owner=true" alt="MeeTech-BackEnd" />
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/mandy-EG/MeeTech-BackEnd">
-        <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=mandy-EG&repo=MeeTech-BackEnd&theme=dark&show_owner=true" alt="MeeTech Repo" />
+        <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=mandy-EG&repo=MeeTech-BackEnd&theme=dark&show_owner=true" alt="MeeTech-FrontEnd" />
       </a>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/mandy-EG/SenaFitness">
-        <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=mandy-EG&repo=SenaFitness&theme=dark&show_owner=true" alt="SenaFitness Repo" />
+      <a href="https://senafitness.vercel.app/">
+        <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=mandy-EG&repo=SenaFitness&theme=dark&show_owner=true" alt="SenaFitness" />
       </a>
     </td>
   </tr>
